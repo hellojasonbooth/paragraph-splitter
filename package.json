@@ -1,0 +1,37 @@
+{
+  "name": "paragraph-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellojasonbooth/paragraph-splitter"
+  },
+  "author": "jason booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellojasonbooth/paragraph-splitter/issues"
+  },
+  "homepage": "https://github.com/hellojasonbooth/paragraph-splitter#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.3",
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0",
+    "webpack": "^4.44.1",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-stream": "^6.1.0"
+  },
+  "dependencies": {
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-pngquant": "^9.0.1"
+  }
+}

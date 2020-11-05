@@ -1,0 +1,17 @@
+@import "reset";
+
+body {
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 28px;
+	line-height: 1.5;
+	background-color: #fff;
+	color: #000;
+}
+
+p span:nth-child(even) {
+  color: #fff;
+  background: #000;
+}
+
+
+
